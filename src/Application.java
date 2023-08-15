@@ -10,10 +10,10 @@ public class Application {
 //		animal1.setLegs(2);
 //		animal1.setName("Kangeroo");
 		
-		Cat cat1 = new Cat();
-		cat1.setLegs(4);
-		cat1.setName("Tiger");
-		cat1.Properties(); 
+//		Cat cat1 = new Cat();
+//		cat1.setLegs(4);
+//		cat1.setName("Tiger");
+//		cat1.Properties(); 
 		
 		Bear bear1 = new Bear();
 		bear1.setLegs(3);
